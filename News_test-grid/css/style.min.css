@@ -1,0 +1,2 @@
+*{font-family:'Roboto', sans-serif}.nevs{min-height:750px;padding:80px 0 80px 0;display:-ms-grid;display:grid;-ms-grid-columns:(280px)[4];grid-template-columns:repeat(4, 280px);-ms-grid-rows:(280px)[2];grid-template-rows:repeat(2, 280px);gap:60px;grid-auto-rows:300px}.nevs_item{width:240px;height:260px}.news_deskr{margin-top:15px;width:240px;height:110px;font-weight:500;font-size:14px;line-height:16px;color:#000000}
+/*# sourceMappingURL=style.min.css.map */
